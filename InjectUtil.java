@@ -1,6 +1,6 @@
 /**
  * 反射帮助类
- * @author zhengxiaobin@xiaoyouzi.com
+ * @author zhengxiaobin
  * @since 16/11/11
  */
 
