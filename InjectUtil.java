@@ -5,7 +5,7 @@
  */
 
 public class InjectUtil {
-    public static final String INJECT_PATH = "com.lingan.seeyou.ui.activity.user.controller.inject.impl.";
+    public static final String INJECT_PATH = "com.jet.ui.activity.user.controller.inject.impl.";
     private static final String TAG = "InjectUtil";
 
     /**
