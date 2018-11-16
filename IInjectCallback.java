@@ -1,4 +1,4 @@
-package com.lingan.seeyou.ui.activity.user.controller.inject;
+package com.jet.ui.activity.user.controller.inject;
 
 import android.content.Context;
 
