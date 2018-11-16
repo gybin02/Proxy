@@ -4,7 +4,7 @@ Java的动态代理实现
 简单讲： 只知道interface接口，但是要执行 具体 Impl 的方法； 
 
 ### 使用 反射实现：
-com.lingan.seeyou.ui.activity.user.controller.inject.InjectUtil#injectCallback
+com.jet.ui.activity.user.controller.inject.InjectUtil#injectCallback
 ````
     /**
      * 反射调用实现的回调
